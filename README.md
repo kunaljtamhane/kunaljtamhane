@@ -21,6 +21,9 @@ I'm always open to collaboration and connecting with fellow developers and enthu
 🐦 Twitter: @kunaljtamhane
 💼 LinkedIn: https://www.linkedin.com/in/kunaltamhane/
 
+**🔧Languages and Tools:**
+java python c cplusplus
+
 Contributions
 I welcome contributions to my projects. If you have an idea or find a bug, feel free to open an issue or submit a pull request. Let’s work together to make something amazing!
 
