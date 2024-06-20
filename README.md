@@ -10,6 +10,8 @@
 - Computer Vision
 - Generative AI
 - Token Handling in LLMs
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Neural Networks
   
 Feel free to explore my repositories to see my work!
 
@@ -29,3 +31,4 @@ I welcome contributions to my projects. If you have an idea or find a bug, feel 
 
 Acknowledgments
 Thanks to the open-source community for the constant inspiration and support.
+
